@@ -7,7 +7,7 @@ It is very light weight and easy to use
 ```javascript
 <script src="./sandesh.js"></script>
 ```
-#### or
+#### or copy this code in your JS file
 
 ```javascript
 'use strict';
