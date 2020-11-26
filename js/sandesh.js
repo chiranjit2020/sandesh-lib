@@ -27,7 +27,7 @@ function Sandesh(method, url, body = null) {
 //CALL SANDESH FUNCTION
 const url = 'https://jsonplaceholder.typicode.com/users';
 const body = {
-    name: "ck",
+    name: "John Doe",
     age: 30
 };
 
